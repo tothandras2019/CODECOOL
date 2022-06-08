@@ -1,4 +1,4 @@
 `use strict`;
 
-console.log(`Hello World`);
+const name = `Andras`;
 
