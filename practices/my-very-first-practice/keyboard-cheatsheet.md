@@ -36,3 +36,5 @@ Comma: , => ,
 Terminal:
 Open terminal => LCtrl + ö
 Open Explorer => LCtrl + RShift + e
+
+Itt a módosítás
