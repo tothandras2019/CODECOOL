@@ -37,4 +37,4 @@ Terminal:
 Open terminal => LCtrl + ö
 Open Explorer => LCtrl + RShift + e
 
-Itt a módosítás
+Itt a módosítás valami csak van.
