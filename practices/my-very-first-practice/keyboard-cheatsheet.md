@@ -4,7 +4,7 @@ Brackets:
 Round brackets aka parentheses: ( ) => RSift + 8 / 9
 Square brackets aka box brackets:[ ] => RAlt + f / g
 Curly brackets aka curly braces: { } => RAlt + b / n
-Angle brackets aka chevrons: < > => RAlt + í / y
+Angle brackets aka chevrons: < > => RAlt + í / y  
 
 Quotation marks:
 Single quote: ' => RSift + 1
