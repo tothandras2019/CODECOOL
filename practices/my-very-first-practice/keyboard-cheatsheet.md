@@ -4,7 +4,7 @@ Brackets:
 Round brackets aka parentheses: ( ) => RSift + 8 / 9
 Square brackets aka box brackets:[ ] => RAlt + f / g
 Curly brackets aka curly braces: { } => RAlt + b / n
-Angle brackets aka chevrons: < > => RAlt + í / y  
+Angle brackets aka chevrons: < > => RAlt + í / y
 
 Quotation marks:
 Single quote: ' => RSift + 1
@@ -33,14 +33,26 @@ Semicolon: ; => RAlt + ,
 Dot: . => .
 Comma: , => ,
 
+//.prettier-ignore
+All the other necessary characters
+~ => LAlt + 1
+? => RShift + ,
+@ => RAlt + v
+// # => RAlt + x
+$ = RAlt + é
+// % = > RShift + 5
+& = RAlt + c
+// - = RAlt + -
+// \* => -
+
+- => RShift + 3
+  = => RShift + 7
+
 usefull:
 Open terminal => LCtrl + ö
 Open Explorer => LCtrl + RShift + e
 Open Side panels => LCtrl + b
+Multi-cursor: LAlt + click, click into a text + LCtrl + LShift + L
 
 html line copy.Shift + alt + le nyíl
-div*3 => 3 db div elemet hoz létre egyszerre.
-
-
-Itt a módosítás valami csak van.
-itt is módosítottam valami csak van.
+div\*3 => 3 db div elemet hoz létre egyszerre.
