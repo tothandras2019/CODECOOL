@@ -33,9 +33,11 @@ Semicolon: ; => RAlt + ,
 Dot: . => .
 Comma: , => ,
 
-Terminal:
+usefull:
 Open terminal => LCtrl + ö
 Open Explorer => LCtrl + RShift + e
+Open Side panels => LCtrl + b
+
 
 Itt a módosítás valami csak van.
 itt is módosítottam valami csak van.
