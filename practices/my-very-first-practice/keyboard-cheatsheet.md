@@ -38,6 +38,9 @@ Open terminal => LCtrl + ö
 Open Explorer => LCtrl + RShift + e
 Open Side panels => LCtrl + b
 
+html line copy.Shift + alt + le nyíl
+div*3 => 3 db div elemet hoz létre egyszerre.
+
 
 Itt a módosítás valami csak van.
 itt is módosítottam valami csak van.
