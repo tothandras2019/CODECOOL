@@ -56,3 +56,11 @@ Multi-cursor: LAlt + click, click into a text + LCtrl + LShift + L
 
 html line copy.Shift + alt + le nyíl
 div\*3 => 3 db div elemet hoz létre egyszerre.
+
+VS code:
+Explorer:
+Lctrl + LShift +
+(e)xplorer/
+(f)find:Search/
+(g): source control/
+e(x)tentions
